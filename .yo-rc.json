@@ -1,7 +1,8 @@
 {
   "generator-jhipster": {
     "promptValues": {
-      "packageName": "com.fsd.sba"
+      "packageName": "com.fsd.sba",
+      "microservicePath": "../training"
     },
     "jhipsterVersion": "6.4.1",
     "applicationType": "gateway",

@@ -1,8 +1,7 @@
 package com.fsd.sba.domain;
 
-import com.fsd.sba.config.Constants;
-
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fsd.sba.config.Constants;
 import org.apache.commons.lang3.StringUtils;
 import org.hibernate.annotations.BatchSize;
 
